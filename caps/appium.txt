@@ -1,0 +1,7 @@
+[caps]
+platformName = "android"
+appPackage = "com.inducesmile.androidecommerceshop"
+app = 'C:\projetos\cucumber\src\tests\Appium\app-debug.apk'
+deviceName = "192.168.141.101:5555"
+autoGrantPermissions = true
+noReset = true
